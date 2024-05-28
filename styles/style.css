@@ -1,0 +1,24 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: rgb(238, 238, 238);
+}
+
+.section-header {
+    font-size: 32px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+.sub-section-header {
+    font-size: 18px;
+}
+
+strong {
+    font-weight: bold;
+    color: red;
+    background-color: rgb(250, 242, 180);
+}
